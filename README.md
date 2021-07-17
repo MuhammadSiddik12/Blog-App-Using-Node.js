@@ -1,6 +1,5 @@
 # Blog-App-Using-Node.js
 
-# BlogApp
 In this project, I made some endpoints for login user and create posts.
 
 ___________________________________________________________________________________________
